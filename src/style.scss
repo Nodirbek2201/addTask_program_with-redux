@@ -1,0 +1,33 @@
+.app{
+  min-height: 100vh;
+
+  .tasks{
+    position: relative;
+    ul{
+      max-height: 53vh;
+      overflow-y: auto;
+    }
+    .item{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 75%;
+      margin: auto;
+      .title{
+        margin-left: 10px;
+        font-size: 22px;
+        font-family: cursive;
+      }
+      .box{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        right: 0;
+        button{
+          background-color: transparent;
+          border: none;
+        }
+      }
+    }
+  }
+}
