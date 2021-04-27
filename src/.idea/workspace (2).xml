@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b1d9d98-7f01-462e-9d01-f6e5bf0d9c3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rAXTsIzqvCBIlNBJExpAI1pJv4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Modals" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Modals" />
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Search" />
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Pages" />
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Redux\Reducers" />
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Contents" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\home_2021\Desktop\my-app\src\Search" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="Action.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Redux/Action/Action.js" working-dir="$PROJECT_DIR$/src/Redux/Action">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.Action.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1d9d98-7f01-462e-9d01-f6e5bf0d9c3e" name="Default Changelist" comment="" />
+      <created>1618419886034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618419886034</updated>
+      <workItem from="1618419892903" duration="1208000" />
+      <workItem from="1618467896115" duration="14629000" />
+      <workItem from="1618502494116" duration="333000" />
+      <workItem from="1618503541685" duration="316000" />
+      <workItem from="1618503888906" duration="341000" />
+      <workItem from="1618504603809" duration="1256000" />
+      <workItem from="1618505953571" duration="175000" />
+      <workItem from="1618506158951" duration="356000" />
+      <workItem from="1618506549187" duration="90000" />
+      <workItem from="1618506685506" duration="73000" />
+      <workItem from="1618506801464" duration="152000" />
+      <workItem from="1618506984732" duration="487000" />
+      <workItem from="1618507503628" duration="91000" />
+      <workItem from="1618552579340" duration="5891000" />
+      <workItem from="1618562196295" duration="2984000" />
+      <workItem from="1618577464185" duration="2251000" />
+      <workItem from="1618673807879" duration="10395000" />
+      <workItem from="1618687523077" duration="2302000" />
+      <workItem from="1618723707567" duration="19522000" />
+      <workItem from="1618767637981" duration="459000" />
+      <workItem from="1618846995286" duration="3720000" />
+      <workItem from="1618908415423" duration="134000" />
+      <workItem from="1618908795104" duration="1498000" />
+      <workItem from="1618916130816" duration="6880000" />
+      <workItem from="1618977373645" duration="15200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
